@@ -29,15 +29,3 @@ and **MVVM Architecture** using the free TheMealDB API.
 | View Binding | Type-safe UI interactions |
 | RecyclerView | Efficient list rendering |
 | ConstraintLayout | Responsive UI |
-
-## 🌐 API Used
-
-**TheMealDB** - Free, no API key required!
-- Base URL: `https://www.themealdb.com/api/json/v1/1/`
-- Endpoints used:
-    - `GET /categories.php` - Fetch all categories
-    - `GET /filter.php?c={category}` - Filter by category
-    - `GET /search.php?s={name}` - Search meals
-    - `GET /lookup.php?i={id}` - Get meal details
-
-## 🏛️ Architecture
